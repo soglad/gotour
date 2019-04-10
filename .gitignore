@@ -1,0 +1,23 @@
+# vagrant
+.vagrant/
+
+# ansible
+*.retry
+
+# vim
+*.swp
+
+# terraform
+terraform.tfstate
+terraform.tfstate.backup
+
+# mac
+.DS_Store
+
+# intellij
+.idea
+
+# vscode
+.vscode
+
+dist

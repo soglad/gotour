@@ -17,5 +17,6 @@ func testSwitch() {
 }
 
 func main() {
+	fmt.Println("Hello World!")
 	testSwitch()
 }
